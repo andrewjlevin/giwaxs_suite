@@ -1,3 +1,13 @@
+test*
+*.pptx
+.vscode
+.DS_Store
+beamline_data/
+
+
+
+
+### Default python-template for .gitignore below:
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
