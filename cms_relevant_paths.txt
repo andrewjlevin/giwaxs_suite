@@ -1,0 +1,8 @@
+# Destination folders:
+/nsls2/users/alevin/giwaxs_suite/sst1_notebooks
+
+# Destination / source folders:
+/nsls2/data/cms/proposals/2023-2/pass-311415
+
+# Source folders:
+/nsls2/data/cms/legacy/xf11bm/data/2023_2/
