@@ -1,8 +1,10 @@
+
 test*
 *.pptx
 .vscode
 .DS_Store
 beamline_data/
+processed*
 
 
 
