@@ -1,0 +1,3 @@
+# Notes for rclone copying Tom's 20224C1 CMS GIWAXS data
+
+rclone --dry-run copy -LP /nsls2/data/cms/legacy/xf11bm/data/2024_1/CDavis2/waxs/raw /nsls2/data/cms/proposals/2023-3/pass-311415/AL_processed_data/CDavis2/raw
