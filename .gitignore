@@ -5,6 +5,7 @@ test*
 .DS_Store
 beamline_data/
 processed*
+raw_data*
 
 
 
